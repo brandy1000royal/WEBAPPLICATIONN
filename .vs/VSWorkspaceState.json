@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Models",
+    "\\Repository",
+    "\\Views",
+    "\\Views\\Driver",
+    "\\Views\\Home"
+  ],
+  "SelectedNode": "\\Controllers\\RideController.cs",
+  "PreviewInSolutionExplorer": false
+}
